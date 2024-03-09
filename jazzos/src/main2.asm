@@ -15,7 +15,7 @@
 
     halt:
         jmp halt
-; this is a test
+; this is a tes
 
     print:
         push si
